@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 from PyQt5.QtWidgets import *
-from initUi import Analyst
+from analyst import Analyst
 
 def main():
    app = QApplication(sys.argv)
